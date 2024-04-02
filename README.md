@@ -12,5 +12,3 @@ Source Code Repositories and Issue Trackers:
 - [OpenG Variant Configuration File Library](https://github.com/vipm-io/OpenG-Variant-Configuration-File-Library)
 - [OpenG Variant Data Library](https://github.com/vipm-io/OpenG-Variant-Data-Library)
 
-NXG package source repository:
-- [OpenG-NXG](https://github.com/JKISoftware/OpenG-NXG)
